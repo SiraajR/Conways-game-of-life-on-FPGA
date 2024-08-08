@@ -27,7 +27,7 @@
 - After setting up your pattern, flip **switch 9** up to start the simulation.
 - Observe the LED array as it follows the rules of Conway's Game of Life.
 
-##Game of life rules: 
+## Game of life rules: 
 
 Conway's Game of Life is played on an infinite grid of square cells, each of which is either live or dead. The game is governed by two simple rules:
 
